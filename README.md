@@ -6,7 +6,7 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 ### Data Modeling
 Inspect the CSVs and sketch out an ERD of the tables.
-![images_solution](ThisP PC/Desktop/sql-challenge/sql-challenge/EmployeeSQL/employee_ERD.png?raw=true "ERD")
+![images_solution](/EmployeeSQL/employee_ERD.png?raw=true "ERD")
 
 
 ### Data Engineering
